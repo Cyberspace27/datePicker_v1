@@ -26,4 +26,5 @@ function ($scope) {
   };
 
   
+  console.log(vm.opens);
 }]);
